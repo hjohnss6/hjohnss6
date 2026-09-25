@@ -1,6 +1,9 @@
-### Hi there 👋
+# Herman Johnsson
 
+`engineer`
 
-### Hiring
+`people × product × technology`
 
-Message on LinkedIn for more info.
+- systems
+- automation
+- execution
