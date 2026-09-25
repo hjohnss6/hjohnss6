@@ -2,12 +2,8 @@
 
 `engineer`
 
-Building across:
-- people
-- product
-- technology
+`people × product × technology`
 
-Interested in:
 - systems
 - automation
 - execution
