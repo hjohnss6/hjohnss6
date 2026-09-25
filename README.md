@@ -2,7 +2,12 @@
 
 `engineer`
 
-Focus:
+Building across:
 - people
 - product
 - technology
+
+Interested in:
+- systems
+- automation
+- execution
