@@ -1,11 +1,8 @@
 # Herman Johnsson
 
-`data engineer | systems thinker | builder`
+`engineer`
 
-Interested in:
-- data platforms
-- backend systems
-- automation
-- applied AI
-
-Open to engineering conversations on LinkedIn.
+Focus:
+- people
+- product
+- technology
